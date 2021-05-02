@@ -13,7 +13,7 @@ Input:-
 65
 76
 
-After bubble sort the element;-
+After bubble sort the element:-
 
 76
 65
