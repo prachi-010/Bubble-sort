@@ -1,6 +1,6 @@
 # Bubble-sort
 
-This is my Blbble sort program in C language, this program will sort the element in ascending order.
+This is my Bubble sort program in C language, this program will sort the element in ascending order.
 
 eg 
 Input:-
